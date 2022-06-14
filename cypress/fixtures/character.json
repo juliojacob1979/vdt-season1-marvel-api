@@ -1,0 +1,31 @@
+{
+	"characterNameIsEmpty": {
+		"alias": "Mercurio",
+		"team": [
+			"Vingadoresda costa oeste",
+			"irmandade de mutantes"
+		],
+		"active": true
+	},
+	"characterAliasIsEmpty": {
+		"name": "Pietro Maximoff",
+		"team": [
+			"Vingadoresda costa oeste",
+			"irmandade de mutantes"
+		],
+		"active": true
+	},
+	"characterTeamIsEmpty": {
+		"name": "Pietro Maximoff",
+		"alias": "Mercurio",
+		"active": true
+	},
+	"characterActiveIsEmpty": {
+		"name": "Pietro Maximoff",
+		"alias": "Mercurio",
+		"team": [
+			"Vingadoresda costa oeste",
+			"irmandade de mutantes"
+		]
+	}
+  }
